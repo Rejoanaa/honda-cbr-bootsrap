@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header style  */
+.bg-header{
+    background-color: #264653;
+}
+.head-text{
+    
+     width: 80%;
+    color: #FFFFFF;
+}
+.head-text h1{
+   font-weight: 600;
+   font-size: 48px;
+   margin-bottom: 20px;
+}
+.head-text p{
+    font-size: 16px;
+    padding-top: 0;
+    margin-bottom: 0;
+}
+.btnn-head{
+    background-color:#E76F51;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px  43px;
+    margin-top: 30px;
+}
+/* featured bikes style  */
+.feature img{
+    width: 288px;
+    margin: 30px 0px;
+}
+.filter{
+    filter: grayscale(100%);
+}
+h1{
+    font-size: 48px;
+    font-weight: 600;
+}
+span{
+    color: #E76F51;
+
+}
+/* happy client style */
+.client-img{
+    width: 149px; 
+    height: 149px;
+
+}
+.client{
+    color: #23A6F0;
+    ;
+}
+.empty{
+    color:white;
+    text-shadow:0 0 3px  #E76F51;
+}
+/* faq style  */
+.faq-img{
+height: 390px;
+width: 425px;
+
+}
+.acord{
+    color: black !important;
+    background-color: white !important;
+    box-shadow: none !important;
+}
+/* progress bar style */
+.progress.bonus{
+    height: 300px;
+}
+/* stay connected style  */
+.stay-con{
+    height: auto;
+}
+
+
+
+                                       
+                                        
+
+
+
+
+
+
+
